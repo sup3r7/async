@@ -110,7 +110,7 @@ namespace async
             try
             {
                 //Task.Factory.StartNew(() => Console.WriteLine("hejsan"));
-                var method = Task.Factory.FromAsync<string, int>(Funcis.BeginInvoke, Funcis.EndInvoke, "hejsan", Funcis);
+               // var method = Task.Factory.FromAsync<string, int>(Funcis.BeginInvoke, Funcis.EndInvoke, "hejsan", Funcis);
                 
                 var observable =  method.ToObservable().Subscribe( x => integerList.Add(x), () => System.Diagnostics.Debug.WriteLine("Completed"));
                

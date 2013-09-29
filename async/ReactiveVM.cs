@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace async
 {
-    class ReactiveVM
+    public class ReactiveVM
     {
     }
 }
