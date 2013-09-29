@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\async.pdb
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\obj\Debug\async.pdb
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Core.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Core.xml
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\async.dll.config
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\async.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\obj\Debug\async.dll
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\obj\Debug\async.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\async.dll.CodeAnalysisLog.xml
+C:\Users\Fabio\Documents\Visual Studio 2012\Projects\async\async\bin\Debug\async.dll.lastcodeanalysissucceeded
